@@ -1,2 +1,3 @@
-Bildiakov Sergei
-Hello World
+# rsschool-cv
+---
+https://Jamezo-wd.github.io/rsschool-cv/cv
